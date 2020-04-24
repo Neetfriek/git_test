@@ -1,0 +1,1 @@
+This is Kana's first git project!
